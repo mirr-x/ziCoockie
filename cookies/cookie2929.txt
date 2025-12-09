@@ -1,0 +1,14 @@
+accounts.spotify.com	FALSE	/	FALSE	1756634610	__Host-device_id	AQAVE9fRR4ZIN7BLN8O9r02fpctyr92Px2WTkRcinGLOHSKyv-TTfvN1z31nXtdUWQ-IwICXkNLSf_uqsUEdHazpRSp24pUofZw
+.accounts.spotify.com	TRUE	/	FALSE	17591679303263894	__Secure-TPASESSION	AQDz04HkOB/svb6OG5Ztxl2prcCcPiF0iRMrhg+JIocCpzUfJMSETIBLpc0iLOjYWTr0/B/Jj4R0omM/gMNK2H37QKV1Cv9Ox0U=
+accounts.spotify.com	FALSE	/	FALSE	17591679303263894	sp_t	26c39061-07ce-4692-8a9d-1e174edf274d
+.accounts.spotify.com	TRUE	/	FALSE	17591679303263894	sp_tr	false
+.spotify.com	TRUE	/	FALSE	17591679303293901	sp_dc	AQCCdTDoNxGineq8kQ0U7f8fCNAtgd3wUiVNQzF4Sb9K2tHMpratPGQ92_K84oHpaGay-fHC8a6kf-Fs3-kTCshUgymvxkQq07j6i6x39mvBOTQqnEkQZwryA_EJ7sBOcWwM1K6aZT0SqpjNrxDPZj5tnU28vNL8
+.spotify.com	TRUE	/	FALSE	17591679303293901	sp_key	21d86dec-e250-4b34-9230-7b9e8342494b
+www.spotify.com	FALSE	/	FALSE	1722079694	__Host-sp_csrf_sid	2469e705a3ba10695816fc1486180f23da3f727fa48e64c3615be793ac5e2b2f
+.spotify.com	TRUE	/	FALSE	1727260094	sp_gaid	0088fc4e1100a4e947a0b83a3fa7ea13b0e96a302208ed3e8dbc2a
+.spotify.com	TRUE	/	FALSE	1722162494	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Ferror%3Fsp_cid%3D30f0bf9e79e37e369dfbe9c2a0d1f0c2%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1727260094	sp_last_utm	%7B%22utm_campaign%22%3A%22organic%22%2C%22utm_medium%22%3A%22desktop-win32-store%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	FALSE	1756636094	sp_m	in-en
+.spotify.com	TRUE	/	FALSE	1722162494	sp_new	1
+.accounts.spotify.com	TRUE	/	FALSE	17591679303313908	csrf_token	AQAo4D1nzY3cEaF6P0VT8N9pf8WtZAdvuw0bKgy2q2jF6cPfrYV-o1QrOXfi5RjZR5ePJP9NOqBzBw3DjpQ
+.accounts.spotify.com	TRUE	/	FALSE	17591679303313908	sp_sso_csrf_token	013acda719ab5406d176b6e8a0836b7ed75d9d4b5d31373232303736313438343930

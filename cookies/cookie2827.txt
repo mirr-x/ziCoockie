@@ -1,0 +1,9 @@
+accounts.spotify.com	FALSE	/	TRUE	1760840711	__Host-device_id	AQCcbElz7Jx-mkLQtz-mqDhI3ipvTqA-iI3VUHaRo3OUPNDRpunMPyVLNiuXz-3BYUj_9K4y89A9LQlAS_AVnalN9ofNISA1HqM
+.spotify.com	TRUE	/	TRUE	1757816841	sp_t	e0b8a814c36979d489cd20fe45ec65b0
+.accounts.spotify.com	TRUE	/	TRUE	0	__Secure-TPASESSION	AQASa+O5nK089n8LOtjdPdOVDKWMeF7Hf45kBPe/rUsuSB5YR70mgl5P3vYRvpAq/jTXEND9cMq+F90thDCEY6Y9bZfvyvUNpH8=
+.spotify.com	TRUE	/	TRUE	1758479191	sp_dc	AQD06cOsd9HhJ9bvGyl-m8uRBElfmlwl3acgFqEvQ8dS3br_JXL4e8oLJsFzm86b69IBG7Qrb2cLrHuf3P8ALVx_BpqEzD3-I8L-zNUPahoepd3jj1wcf-kJJHKScgtutshbOBFbk4tWtw93Rv1s2EFOWgpXm8yS8aD0z8pzZ5gBI5KOKnl_vbPU1Yt4z5ZrUMiMro_kH0zO1mYcS-RnHfmUIgg
+.spotify.com	TRUE	/	TRUE	1758479191	sp_key	58550027-d887-4572-9afc-94d8444e1ba7
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	false
+accounts.spotify.com	FALSE	/	TRUE	1726949443	__Host-sp_csrf_sid	d6a94bbeffd222c7755ad9c146ead907953062806073c76626f3f9b2495e32cb
+.accounts.spotify.com	TRUE	/	TRUE	0	csrf_token	AQCVn8jDwwSyMHPEFLwLNPWIQGGT6s35GyIglYGkt8q2NkhgGninkDsz60P5Mq42RIQ2FeLiXuR1nQ
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda719c19db3083f6906dfd212c495d40c593431373236393435383434383339

@@ -1,0 +1,7 @@
+accounts.spotify.com	FALSE	/	FALSE	1744194020	__Host-device_id	AQCz3u5XnZIJJXEkgESqMax6WqyyCgl--vCSq0-fsqys5gdU-zU06MjfnLA_oRCz74QG8avjbqHu5NW7xj18_8XNG4HvztECnVc
+.spotify.com	TRUE	/	FALSE	1741170047	sp_dc	AQC4ZXQzknk4g2_uRFrVL2BDN84TffLVLBHxwIYffdfcPdSguOnaMWGVsOuI3jiS19wIi3aRmT43B5odxtX7HxZVTDFiH8jesS_5dq1iP1gnRWV4SB8Q96A5VioL96X81QRbG5odUrT9OQOIGo9H6nmnc1SrikYE
+.spotify.com	TRUE	/	FALSE	1741170047	sp_key	921bc688-c324-497d-83df-3d3ace6b6033
+.spotify.com	TRUE	/	FALSE	1741858818	sp_t	a4b248107c2071d00296af659ec5d2ad
+.spotify.com	TRUE	/	FALSE	1744843203	sp_m	tr-tr
+.spotify.com	TRUE	/	FALSE	1744843213	LPVID	gzMzQwNTU3NzI0Zjg0NGNm
+.spotify.com	TRUE	/	FALSE	1744719739	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+15+2024+15%3A22%3A19+GMT%2B0300+(GMT%2B03%3A00)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=40214b8c-54d4-4653-9de0-0b97b58ce468&interactionCount=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1&AwaitingReconsent=false

@@ -1,0 +1,17 @@
+.spotify.com	TRUE	/	FALSE	1756694112	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+01+2024+05%3A35%3A12+GMT%2B0300+(GMT%2B03%3A00)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=905cba4c-34b4-4eab-89ed-821cf5bc98c2&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.spotify.com%2Ftr-tr%2Fdownload%2Fwindows%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1
+.spotify.com	TRUE	/	TRUE	1756694105	sp_adid	7936cfe2-9be8-482b-82bb-b5f3db723ecb
+.spotify.com	TRUE	/	TRUE	1725244503	sp_landing	https%3A%2F%2Fwww.spotify.com%2Ftr-tr%2Fdownload%2Fwindows%2F
+.spotify.com	TRUE	/	TRUE	1725244503	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1759718103	sp_m	tr-tr
+.spotify.com	TRUE	/	TRUE	1725244503	sp_new	1
+www.spotify.com	FALSE	/tr-tr/download/windows	FALSE	-11644473600	sss	1
+accounts.spotify.com	FALSE	/	TRUE	1759718153	__Host-device_id	AQCYxEOakX5S-Ee7x6otzfst23_hWSJcrJcnAIvXmA3HmoeTPZD4gyxlcf97z9xLeb1mqV4baOKXaTj_TH8uxbiAPNNdAWCOtD0
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	__Secure-TPASESSION	AQBsXHWT8tQYAsJDKcns8589AxIagN8NezRYTxzdYxahumCpUkorSMO4HULcGk/YxG9yBsVsKOOYVMkb+Cb27JwM+grmlTg2ZMw=
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	sp_tr	false
+accounts.spotify.com	FALSE	/	TRUE	1725161768	__Host-sp_csrf_sid	bd1ea9a182db12a714a210e44e8f68230d7d941d8df164745f52fa6e33107d8a
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	csrf_token	AQAhExJD6L2w17w2kl3OislqFNP0vM7nnnDu7-C_b_fcMRy7ww6Qe8GUSA5VTdq_Fnbw0zLImJfa038R
+accounts.spotify.com	FALSE	/	TRUE	-11644473600	remember	atiogluberat7%40gmail.com
+.spotify.com	TRUE	/	TRUE	-11644473600	sp_dc	AQBNjghgggBGYDdGEMlVQ_PaId3zc36XTFlVarqqlh7ZP0nsY0W4FbY5-NfW9jTLQXpMFe7-4VXPXTp09xbrQWH_jIdIW3hTZogHwSgLeIttw-RPs5m2yv7Rwy7HxT5_G35IkTwlcyoJ24iVG3uBoEm0xxtaEeAF
+.spotify.com	TRUE	/	TRUE	-11644473600	sp_key	4488d70d-7f9c-416c-8116-39d778598322
+.accounts.spotify.com	TRUE	/	TRUE	-11644473600	sp_sso_csrf_token	013acda71999aa8ba9a700ac503098e900c2d1582a31373235313538313638373339
+.spotify.com	TRUE	/	TRUE	1756694170	sp_t	fb4fcc87-8dea-49bf-be6d-eb520f571598

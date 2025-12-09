@@ -1,0 +1,9 @@
+accounts.spotify.com	FALSE	/	FALSE	1745777735	__Host-device_id	AQDQgr4vQtJPPB0rJNLgR-vxclmarLLMs2_rDrIg-FFDyje6mJt8huBsMUsz8HoLCrg15QkKI9HKnEVqHSvIb_wxWNVvIXSGsSQ
+.spotify.com	TRUE	/	FALSE	1742753852	sp_dc	AQBM6ru7zmfoytMJb7jBEonB0Uih0eDAh5zIlt9FoqFwiVpPL0k3kgvBQ4Tr_6k1TUXy3yWPdEZuUEWI9CFRIct3duZKsUZ6X3fWv3D8n1LA709YGtSHhx_OnYIMUZlnt7deKu71mH7HPwg3n5PU0Mhhxtt1IXH6
+.spotify.com	TRUE	/	FALSE	1742753852	sp_key	34b6fcfe-4397-4553-925f-ab819b42e2c4
+.spotify.com	TRUE	/	FALSE	1742753860	sp_t	b47ced146ad762415016cd93ce9b63bd
+.spotify.com	TRUE	/	FALSE	1730674127	sp_gaid	0088fc80ab49b00b7886e33e1556a0d926b13c6b7949c139887560
+.spotify.com	TRUE	/	FALSE	1725576527	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fmx%2Fpremium%2F%3Futm_source%3Dmeta_mx_2p_broad_webconversions_%26utm_medium%3Dpaidsocial_%26utm_campaign%3D2024q3_performance_single_premiumbusiness_evergreenpremium3mfasccls_es%2Bmx%2Blatam%2Blatam%2B20240903%2Bmeta%2Bcell3%2Bcombo%2Basc
+.spotify.com	TRUE	/	FALSE	1725576527	sp_landingref	https%3A%2F%2Fl.facebook.com%2F
+.spotify.com	TRUE	/	FALSE	1730674127	sp_last_utm	%7B%22utm_campaign%22%3A%222024q3_performance_single_premiumbusiness_evergreenpremium3mfasccls_es%2Bmx%2Blatam%2Blatam%2B20240903%2Bmeta%2Bcell3%2Bcombo%2Basc%22%2C%22utm_medium%22%3A%22paidsocial_%22%2C%22utm_source%22%3A%22meta_mx_2p_broad_webconversions_%22%7D
+.spotify.com	TRUE	/	FALSE	1760050127	sp_m	mx

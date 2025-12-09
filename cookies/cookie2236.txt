@@ -1,0 +1,16 @@
+accounts.spotify.com	FALSE	/	TRUE	1758636314	__Host-device_id	AQASvB5hoddTBErOhCTFZJwzUZFRx7pOqm-jicneohsEPfUhdt_0n2k1J_M9hmZbATBmXaOuw5Du5UzQoCIh7ALYWV72Fjj_3qM
+.accounts.spotify.com	TRUE	/	TRUE	0	__Secure-TPASESSION	AQCK0E/KHGIWjntPaahI+BmuxThH6jcdcdNkwc5fyjSaDFUygD+t9li0nlwp2IOjL+U32Jk35uo0a8d0+qpt9W2GL9606MpdDeI=
+accounts.spotify.com	FALSE	/	FALSE	0	sp_t	40f29ca3-fb72-4fc4-b5ce-990fc0c55f84
+.spotify.com	TRUE	/	FALSE	1731852369	_gcl_au	1.1.121170688.1724076369
+.spotify.com	TRUE	/	TRUE	1755612377	sp_adid	8ae7bdea-c6cc-4e97-a48c-547139df61fb
+.spotify.com	TRUE	/	TRUE	0	sp_dc	AQB2MIFJbyWVNL7t0XLitLXUX7-Wb5U_TBUfeRPsLfi844mDc2Xs9gGHzij--bRAxy75E8zcnoH8sMAu4iz_hMwaHSoqhUpSKJPz10NQIuGr23pgww4Bv0kM-eKslKTwtRzN2XhxtbdpVLNCsfDTUSgq8yqoM0Ku
+.spotify.com	TRUE	/	TRUE	0	sp_key	38ef5514-1e5f-466d-9c56-839a68c48a6a
+open.spotify.com	FALSE	/	FALSE	0	sss	1
+.spotify.com	TRUE	/	FALSE	1755612397	OptanonAlertBoxClosed	2024-08-19T14:06:37.635Z
+.spotify.com	TRUE	/	FALSE	1755612397	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+19+2024+21%3A06%3A37+GMT%2B0700+(Indochina+Time)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
+.spotify.com	TRUE	/	FALSE	1758637582	_ga	GA1.2.65488040.1724076370
+.spotify.com	TRUE	/	FALSE	1758637582	_ga_BMC5VGR8YS	GS1.2.1724076370.1.1.1724077581.60.0.0
+.spotify.com	TRUE	/	FALSE	1758637582	_ga_ZWG1NSHWD8	GS1.1.1724076369.1.1.1724077581.0.0.0
+.accounts.spotify.com	TRUE	/	TRUE	0	csrf_token	AQBvOJ8nRNaDSfSR_o9L-9OrXSBNUh241FDfyoiUP_8d-KEVky3NeVSKrjzxz1QFiYK8cMh1HSvSLnH7_cn3mXsfFc52i17KqRpgMXHMPenFTdHPMlQ
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda719275031d379bc92ec876a92eaa3895ffb31373235373938383535363635
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	true

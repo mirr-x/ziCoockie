@@ -1,0 +1,10 @@
+accounts.spotify.com	FALSE	/	FALSE	1760831056	__Host-device_id	AQDoLAwlQ09RJVmMxDvrQuWUr7OyGXQOUq_uF-yMEmoWJbbuUCkrY1CGhkU2xTYE8TeyRW5caNUnaVOEDG16X-qxmGUO--exzzs
+.accounts.spotify.com	TRUE	/	FALSE	17583109925935668	__Secure-TPASESSION	AQCYAxvFImQ09LA6hAGsX70Oh6q1Fz5GW1+c1h8SnQPMX7YiMWH/woYqoagcNRD0+kAPAIq2lSglHZwv8t9uZmiiE7FKBra9uxM=
+accounts.spotify.com	FALSE	/	FALSE	17583109925935668	sp_t	60097906-fee9-4b59-8710-19d7a92c59de
+.accounts.spotify.com	TRUE	/	FALSE	17583109925935668	sp_tr	false
+accounts.spotify.com	FALSE	/	FALSE	17583109926152806	remember	jarlesmfilho65%40gmail.com
+.spotify.com	TRUE	/	FALSE	17583109926163479	sp_dc	AQBiVmM2Opf0nw7NlKK7D-lzDvikJCkgI2S_qJtbjCaOm8EdAII4im2zmzH-EX8QMLQuLw4R1D2HvfSju1Dcuzf8UwgKVuCaa01FsZYFDpHO-P2QCvm-0qdrB8bLN3IrigJIKbmlITEXUSDIvCwnOxMOxzPzs08x
+.spotify.com	TRUE	/	FALSE	17583109926165785	sp_key	5994cbf6-4035-4bb5-9e23-56aa975de0e2
+.accounts.spotify.com	TRUE	/	FALSE	17583109927457895	csrf_token	AQDSEtlMG8bOLu0lqD4OqWkWniBoROoc6tKRvrCIwh6y6aNH9h_fLQigrJ9jZ_be_dHL79c9nxnCKpPn4Lcrf3MuB9htUleokG26nlsMNSWFwfOf9rQ
+.spotify.com	TRUE	/	FALSE	1726618429	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3De3f1220c3830b598471f57dc8018b254%26device%3Ddesktop
+.accounts.spotify.com	TRUE	/	FALSE	17583109927457895	sp_sso_csrf_token	013acda719a5a450ec87fd09e28ed96517fd2b38b931373236353332303236303930

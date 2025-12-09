@@ -1,0 +1,13 @@
+accounts.spotify.com	FALSE	/	FALSE	1751313866	__Host-device_id	AQD7HXx5-V_fx9LPRW8kCBE7YRT8WezAM91FksqGFk7y2airlb7c2NXJXycUWuk_akj7rVkdn3dHpuFGhxJ-niZXaW99ryi3dBg
+.spotify.com	FALSE	/	FALSE	1748289879	sp_dc	AQDzEmwleGRKbNZQJ_vLEKEdwJN-CA-bXZRPbDKJhbphkXcONa0r95zsxIFVOfltPMfpGKJHIjzaQnlSHEheKEf55S4zE9n_xw_geqCFAvTqsYOOMwmEJck-4DLkeO8FaKDd8ATctAvsY1pZf0wHpOj5JyusyKs
+.spotify.com	TRUE	/	FALSE	1748289879	sp_key	1ec07893-8595-4e91-ad3b-8cb37cfa1400
+.spotify.com	FALSE	/	FALSE	1751767591	sp_m	br-pt
+.spotify.com	TRUE	/	TRUE	1758040965	OptanonAlertBoxClosed	2024-09-16T18:42:45.159Z
+.spotify.com	TRUE	/	FALSE	1731688960	sp_gaid	0088fceae58ffc2659ae164c5bb0ba90c5d6eb608f5387fbaa56c0
+.spotify.com	TRUE	/	TRUE	1761064977	_ga	GA1.2.1116506875.1717214702
+.spotify.com	TRUE	/	TRUE	1761064978	_ga_BMC5VGR8YS	GS1.2.1726511125.2.1.1726512178.41.0.0
+.spotify.com	TRUE	/	TRUE	1761064999	_ga_ZWG1NSHWD8	GS1.1.1726511121.3.1.1726512199.0.0.0
+.spotify.com	TRUE	/	TRUE	1734279918	_gcl_au	1.1.260415512.1726511118
+.spotify.com	TRUE	/	FALSE	1758040977	sp_adid	83af7ad1-c7a8-4a98-924a-0c17c2ac69ac
+.spotify.com	TRUE	/	TRUE	1758386856	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+20+2024+15%3A47%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=BR%3BRJ
+.spotify.com	TRUE	/	FALSE	1758386840	sp_t	0037043565eaafbb469eba74f5ed85b9

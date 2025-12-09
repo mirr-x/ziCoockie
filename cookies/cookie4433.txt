@@ -1,0 +1,9 @@
+.spotify.com	TRUE	/	FALSE	1751463169	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+02+2024+16%3A32%3A49+GMT%2B0300+(GMT%2B03%3A00)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4593a434-2c31-45cd-b767-ab5dd02dc52d&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.spotify.com%2Ftr-tr%2Faccount%2Foverview%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1
+accounts.spotify.com	FALSE	/	TRUE	1754487157	__Host-device_id	AQC4aaM6nTACbRpNppf1INn5oDzbD39qV3xanzx-eVgfyS62LNkqOyk0X6ddKoP0qOdc7yXuvnRmWn0KOTbVIPWex4RPy7mPS4I
+.spotify.com	TRUE	/	FALSE	1754487168	_ga	GA1.2.2061259340.1719927168
+.spotify.com	TRUE	/	FALSE	1754487168	_ga_BMC5VGR8YS	GS1.2.1719927167.1.0.1719927167.60.0.0
+.spotify.com	TRUE	/	TRUE	1751463168	sp_adid	d2f815d0-94cc-4984-bab1-ab4de5b90dd9
+.spotify.com	TRUE	/	TRUE	1751463160	sp_dc	AQD4oqfvzS6zuX986TK4GRKS_TExniLN3P8n5tuCGDBDm1ezL68I-GG28YTvEVeMuq0kO_yNLbC8DbduMeE8GrdYGSYP-S6HSRxKiiEcZTAKxrvqIMsCgkarlThgQmmReMhszuDyu9tpqz0uJF4uAppjSBtRo8hTOgwNaNyu7dZ2DsJfjzmMloz4y9Mb0PvCENGAir8kACo17WHZfF4COXgsM7pT
+.spotify.com	TRUE	/	TRUE	1751463160	sp_key	f2683121-73e8-4b79-9936-54223818b8d5
+.spotify.com	TRUE	/	TRUE	1754487166	sp_m	tr-tr
+.spotify.com	TRUE	/	TRUE	1751463208	sp_t	72d7b83c-b564-41d5-bd26-d1bb613c7028

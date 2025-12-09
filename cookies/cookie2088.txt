@@ -1,0 +1,15 @@
+.open.spotify.com	TRUE	/	FALSE	1741191530	_pin_unauth	dWlkPU5HVTBaRGhrWTJNdFl6UmlOUzAwTXpZNUxXRmpNR010TWpCaE5tRTFNV014WTJKbQ
+accounts.spotify.com	FALSE	/	TRUE	1747144827	__Host-device_id	AQAyY554vJvrgD53CwpBHHQWuicMpjb7kUTgodrPlXbbJgV8kDpJcCGDLhONRRKdRM81dyvlCmWOXaxIbXCemu7Fikd2XS0mHgc
+.spotify.com	TRUE	/	TRUE	1744120868	sp_dc	AQDViHBVVeumXGYkpbqwUjq46UkxZwHDTZVOud59CaZzatBV5QvMcOiq3c7lIKo5Acor1nU5agMbZy3yQGVjoW7uYy0U2ytUW6r0WKK_U28vXg3CAgzKXC-wEY6EdvIFZSl80GOROxWqKByGfnenT4J0RHZNsp-_quPrnO_9cLUR6hDFBIfHgZS1qlCayFXS9CK-sPmYuKhs5wh_M_v5kwWOiNE
+.spotify.com	TRUE	/	TRUE	1744120868	sp_key	386d56c3-2419-46ca-b866-a5d5da00f5b1
+.spotify.com	TRUE	/	FALSE	1744120881	OptanonAlertBoxClosed	2024-04-08T14:01:21.442Z
+.spotify.com	TRUE	/	FALSE	1747620059	_ga_C8KXF15P07	GS1.1.1713059940.1.1.1713060058.0.0.0
+.spotify.com	TRUE	/	TRUE	1727535481	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fsearch%3Fsp_cid%3Daeebc5d6309ee091573ea4849325ac3d%26device%3Ddesktop
+.spotify.com	TRUE	/	FALSE	1758989016	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+27+2024+10%3A03%3A36+GMT-0600+(hora+est%C3%A1ndar+central)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=MX%3BGUA
+.spotify.com	TRUE	/	FALSE	1728590504	_gcl_au	1.1.910897113.1720814504
+.spotify.com	TRUE	/	TRUE	1758989016	sp_adid	818d8299-fd2f-4216-8bb6-4e34d2bd6135
+.spotify.com	TRUE	/	FALSE	1762017437	_ga	GA1.2.1397004901.1704327850
+.spotify.com	TRUE	/	FALSE	1762017437	_ga_BMC5VGR8YS	GS1.2.1727453016.87.1.1727457436.52.0.0
+.spotify.com	TRUE	/	FALSE	1727543836	_gid	GA1.2.982270426.1727449088
+.spotify.com	TRUE	/	TRUE	1758996150	sp_t	aeebc5d6309ee091573ea4849325ac3d
+.spotify.com	TRUE	/	FALSE	1762025067	_ga_ZWG1NSHWD8	GS1.1.1727465067.203.0.1727465067.0.0.0

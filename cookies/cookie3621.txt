@@ -1,0 +1,10 @@
+accounts.spotify.com	FALSE	/	FALSE	1729012841	__Host-device_id	AQBy_bWcR1N6k1VQG2ncySVeuIp0nA4ivTlnUSMXWfikjnoPapmEyUuKL3h38BrdYGBUBmrWgw0TArDYP-0R2akSIWK2h3g7nlE
+.spotify.com	TRUE	/	FALSE	1756143885	sp_t	3e27042d7402c218426d5f77ec40f5b0
+.spotify.com	TRUE	/	FALSE	1732504607	sp_landing	https%3A%2F%2Fwww.dicio.com.br%2F%3Fsp_cid%3D3e27042d7402c218426d5f77ec40f5b0%26device%3Ddesktop
+.accounts.spotify.com	TRUE	/	FALSE	17591757061786951	__Secure-TPASESSION	AQCc+Fe0Fws2iFR79AVQYBrbcrEUJ2WZ3j0hU7MclEhhYX6ND5mfkcfknGtko8H6HoC7Y9pvN3A9YBt2XOJ5obNd5mo5kkR63Lw=
+.accounts.spotify.com	TRUE	/	FALSE	17591757061792041	sp_tr	false
+accounts.spotify.com	FALSE	/	FALSE	17591757061792041	remember	kumori.0207%40gmail.com
+.spotify.com	TRUE	/	FALSE	17591757078317231	sp_dc	AQApLSgfrvUoX8k69uXNsieCV2oti-CHAWjqhSzFP4rpMmva0LVkfp4_dbgoxhRiku1iuB9AIhdk7lo-ECLv0hwPPjxRFsITtcP-Xd5xjFyWTMjrtaSYgFdYXfNbM_E_cu8-Ia2HKuhWkx6PeBojUrnA2idv_bTm
+.accounts.spotify.com	TRUE	/	FALSE	17591757078341254	sp_sso_csrf_token	013acda719baf152001ffa4347df3afb820865250631373234363037383830323531
+.spotify.com	TRUE	/	FALSE	17591757078341254	sp_key	e9df57a6-a4be-432f-b607-4b93cdd11244
+.accounts.spotify.com	TRUE	/	FALSE	17591757078341254	csrf_token	AQAwmd0vKgb-MlG2NmYDAZXO7ksdGRwKgT_YHIzrfdb5xLRCAtwdjuTV-z3uFsxxLqZArZtMD77OqPk

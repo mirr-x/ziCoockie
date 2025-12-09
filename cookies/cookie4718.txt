@@ -1,0 +1,7 @@
+accounts.spotify.com	FALSE	/	TRUE	1744989901	__Host-device_id	AQAD0B-SI5meaCJIRzZUMCxlf00FoCgM9SLdTugVTatBcWbjJYJQRjDf2jQ2LwMTKHp0kmkJKEycIfZ0hdihdRKvU4ZE3L58j3k
+.spotify.com	TRUE	/	TRUE	1741965979	sp_dc	AQCGeMvOt9bqj0dFqaBt3yATQkPgRFAjcrEQflR4vcW-pPiffq_5d5Y_5WqL7VLe9eJ2n31y8SIzZrUxc71Rh_VUr4bQ8w1E1-IJkZQEv6kCw35TfHidYz0Bc4IKNnHyaWNDc6uzh-w_cBA_WcS1U08eN801LI6u
+.spotify.com	TRUE	/	TRUE	1741965979	sp_key	8e4019ef-e4bd-49b6-8aeb-9cb2959f3fea
+.spotify.com	TRUE	/	FALSE	1744990021	_ga	GA1.2.755843993.1675691770
+.spotify.com	TRUE	/	FALSE	1744990010	_ga_S35RN5WNT2	GS1.1.1710429988.3.1.1710430009.0.0.0
+.spotify.com	TRUE	/	FALSE	1741966010	OptanonConsent	isIABGlobal=false&datestamp=Thu+Mar+14+2024+18%3A26%3A50+GMT%2B0300+(GMT%2B03%3A00)&version=202309.1.0&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&consentId=6e1d836c-cae0-4bca-8998-73a757b7eef6&interactionCount=0
+.spotify.com	TRUE	/	TRUE	1756229882	sp_t	f7bbb1ca5081768020e194bd430a6632
