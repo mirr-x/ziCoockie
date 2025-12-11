@@ -29,7 +29,20 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Place your cookie JSON files in the `json__spotify_cookies/` directory
+### Step 1: Convert Cookies (if needed)
+
+If your cookies are in Netscape format (not JSON), first convert them:
+
+1. Place your Netscape cookie files in the `cookies/` directory
+2. Run the converter:
+```bash
+python conv_cookie.py
+```
+3. The script will automatically convert Netscape format cookies to JSON and save them in `json__spotify_cookies/`
+
+### Step 2: Check Cookie Validity
+
+1. Make sure your cookie JSON files are in the `json__spotify_cookies/` directory
 2. Run the checker:
 ```bash
 python main.py
