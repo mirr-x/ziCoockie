@@ -1,28 +1,53 @@
-
 import json
 import os
 import shutil
 import sys
+import logging
+from pathlib import Path
+from typing import List, Dict, Optional
 from colorama import init, Fore
 
 init()
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-def identify_file(file_name):
+def identify_file(file_path: str) -> str:
+    """
+    Identify whether a file contains JSON or Netscape format cookies.
+    
+    Args:
+        file_path: Path to the cookie file
+        
+    Returns:
+        'json', 'netscape', or 'error'
+    """
     try:
-        with open(file_name, "r") as file_content:
+        with open(file_path, "r", encoding="utf-8") as file_content:
             json.load(file_content)
             return "json"
     except json.JSONDecodeError:
         return "netscape"
     except Exception as e:
-        print(f"An error occurred while processing {file_name}: {str(e)}")
+        logging.error(f"Error processing {file_path}: {str(e)}")
         return "error"
 
 
-def convert_netscape_cookie_to_json(cookie_file_content):
+def convert_netscape_cookie_to_json(cookie_file_content: str) -> List[Dict]:
+    """
+    Convert Netscape format cookies to JSON format.
+    
+    Args:
+        cookie_file_content: Content of the Netscape cookie file
+        
+    Returns:
+        List of cookie dictionaries
+    """
     cookies = []
     for line in cookie_file_content.splitlines():
+        # Skip comments and empty lines
+        if line.startswith("#") or not line.strip():
+            continue
+            
         fields = line.strip().split("\t")
         if len(fields) >= 7:
             cookie = {
@@ -35,24 +60,38 @@ def convert_netscape_cookie_to_json(cookie_file_content):
                 "value": fields[6],
             }
             cookies.append(cookie)
+    
+    return cookies
 
-    json_content = json.dumps(cookies, indent=4)
-    return json_content
 
-
-def append_json_files(existing_file, data):
-    with open(existing_file, "r", encoding="utf-8") as m:
-        existing_data = json.load(m)
-    existing_data.extend(data)
-    with open(existing_file, "w", encoding="utf-8") as m:
-        json.dump(existing_data, m, indent=4)
+def append_json_files(existing_file: str, data: List[Dict]) -> None:
+    """
+    Append cookie data to an existing JSON file.
+    
+    Args:
+        existing_file: Path to the existing JSON file
+        data: List of cookie dictionaries to append
+    """
+    try:
+        with open(existing_file, "r", encoding="utf-8") as f:
+            existing_data = json.load(f)
+        
+        if not isinstance(existing_data, list):
+            existing_data = [existing_data]
+        
+        existing_data.extend(data)
+        
+        with open(existing_file, "w", encoding="utf-8") as f:
+            json.dump(existing_data, f, indent=4)
+    except Exception as e:
+        logging.error(f"Error appending to {existing_file}: {str(e)}")
 
 
 no_of_cookies = 0
 
 try:
-    if os.folder == "posix":
-        folder_path = "cookies_"
+    if os.name  == "posix":
+        folder_path = "cookies"
     else:
         while True:
             import tkinter
