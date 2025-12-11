@@ -173,7 +173,11 @@ def process_cookie_file(filepath: str, filename: str, output_path: str) -> bool:
         True if file was processed successfully, False otherwise
     """
     file_type = identify_file(filepath)
-    destination_path = os.path.join(output_path, filename)
+    
+    # Ensure output filename has .json extension
+    base_name = os.path.splitext(filename)[0]
+    json_filename = f"{base_name}.json"
+    destination_path = os.path.join(output_path, json_filename)
     
     try:
         if file_type == "json":
@@ -195,11 +199,11 @@ def process_cookie_file(filepath: str, filename: str, output_path: str) -> bool:
             
             if os.path.exists(destination_path):
                 append_json_files(destination_path, json_data)
-                print(Fore.GREEN + f"[✔️] {filename} - Converted and appended!" + Fore.RESET)
+                print(Fore.GREEN + f"[✔️] {filename} - Converted and appended to {json_filename}!" + Fore.RESET)
             else:
                 with open(destination_path, "w", encoding="utf-8") as f:
                     json.dump(json_data, f, indent=4)
-                print(Fore.GREEN + f"[✔️] {filename} - Converted to JSON!" + Fore.RESET)
+                print(Fore.GREEN + f"[✔️] {filename} - Converted to {json_filename}!" + Fore.RESET)
             return True
             
         else:

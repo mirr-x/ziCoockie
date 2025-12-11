@@ -1,8 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1742431576	__Host-device_id	AQBn6LRdra6apjRsVXV6NrAuU_ewtusHwoE81tHkFAH_Myu6MH2j0a4wMmsA-ywcIOLluq5YXWsBR4k1fPZD9wM3jB54cjl2ZdY
-.spotify.com	TRUE	/	FALSE	1739407585	OptanonAlertBoxClosed	2024-02-14T00:46:25.152Z
-.spotify.com	TRUE	/	TRUE	1746923008	sp_m	tt
-.spotify.com	TRUE	/	TRUE	1757458212	sp_dc	AQDf6unfbpaeO-4YiSM-8kUGYJCFPYFgID7qSCWfrcXs_vuU47deUSDtJaSuEvsWyS6rVrSdUe9dcpaVYYth6rnXDbbsbercxsKaK_zjKVQqLUbmM0OIO-cN8C9teebE6hqASfHaronegkzl-5xzZntSA3C87hswWDW0uUuZqw6jJ174Ow3X2WQbfpJVtqmHLP6otDpWlfzrSaDzmtPr1TzhGg3s
-.spotify.com	TRUE	/	TRUE	1731106213	sp_gaid	0088fc6cc34c3817fc41ba9de27dc13498f40eb53b4b4f2852ebb7
-.spotify.com	TRUE	/	TRUE	1757458212	sp_key	88adbc9a-54ad-49b5-949a-5fbe8da14693
-.spotify.com	TRUE	/	FALSE	1757536756	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+10+2024+16%3A39%3A16+GMT-0400+(Bolivia+Time)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&geolocation=TT%3BCTT&AwaitingReconsent=false
-.spotify.com	TRUE	/	TRUE	1757559315	sp_t	387fce65e7902af6d0dba888f53c7d5f

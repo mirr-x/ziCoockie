@@ -1,9 +1,0 @@
-accounts.spotify.com	FALSE	/	FALSE	1758822778	__Host-device_id	AQBYuL3eHWN7fvYPS4-YXJ5g-nIGNmBvigiwNuVbIfKTmFdwFdr48s-n0rXed7mLhjy4lVphU6Ii9UPiRXU5Bbax_ESqDPmff9M
-.accounts.spotify.com	TRUE	/	FALSE	17583670674494700	__Secure-TPASESSION	AQCJsC9U75Lt3kjbforM0uSF130HLjOR3S7YZI6CBqSYuMgPVoW5N+hzdYP9tWarpYI6q9d6tfemDQrUqflePnEeIEa7AUV64mM=
-.accounts.spotify.com	TRUE	/	FALSE	17583670674500299	sp_tr	false
-.accounts.spotify.com	TRUE	/	FALSE	17583670674500299	csrf_token	AQB0DB7LACIOKxSjruOEc8Ena4s_5uQVzrTFwiccjLa959zOpXnnPl7xYbwnLu0qMqzmgmbsUkTbeY_TPmoSIwIyxwf_DIhgYKN3lYzT4m456XNU
-accounts.spotify.com	FALSE	/	FALSE	17583670674500299	remember	joaovfoliveira11%40gmail.com
-.spotify.com	TRUE	/	FALSE	1755798824	sp_dc	AQDfcVSR1jHqnvT_we1aKt1X_nTCTFXJX9RH6jyTb8r5iBRegYW2bPWrmducbpbgsx-C8Z1F6guK_mYvk7lcPxfgyzdDx9Bkhg-6TKW6UORwaW3FpJV7t_lVwRTUEuR1CVbkSuXMI2HiSJpDjhTwTENzgycI7uAq
-.spotify.com	TRUE	/	FALSE	1755798824	sp_key	155015ee-c88a-48b4-95f1-bb1c670da333
-.accounts.spotify.com	TRUE	/	FALSE	17583670674545832	sp_sso_csrf_token	013acda719d24fe88495a6b804e8608d1037d1adf731373234323632383935363235
-.spotify.com	TRUE	/	FALSE	1756172705	sp_t	75b9c23f92ceb01c5d9409636b3be2a1

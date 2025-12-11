@@ -1,9 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1752939453	__Host-device_id	AQCr8ydLzOBVwFmxjJoa-II1S-6AZ8f6xjYhkjIvb0yEbVZ-3Stt41sXbmgbpBPO2tBcqGA4WpxfiAGEj4qI8n76Zwm8hnfOTHg
-.spotify.com	TRUE	/	TRUE	1749915463	sp_dc	AQB5ftIPCrY8oYz8w0MhxldEdZNhOHtcRWepSlY3q4BdDgxU5FFuFBOEJYRKXdWuFPuhVTTU3TDFddQUzdRaUBYxmP0ExlW5k84xg6miH7yZuf5D7yPg1UJcIMRZeciJ3VhDwZpPQhbpSJZfvbiSIsH9ipB1fLuy
-.spotify.com	TRUE	/	TRUE	1749915463	sp_key	10be5844-ddb9-4456-98aa-95fc688c9c33
-.spotify.com	TRUE	/	TRUE	1750363505	sp_t	0282c2a4ab70f72aafafc2341680c9aa
-.spotify.com	TRUE	/	FALSE	1751583643	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+04+2024+02%3A00%3A43+GMT%2B0300+(GMT%2B03%3A00)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76639d21-12d2-48f9-9db4-cda7b667ebfb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1&AwaitingReconsent=false
-www.spotify.com	FALSE	/	TRUE	1751583641	ravelinDeviceId	rjs-47a5d335-b166-46b0-b642-96ada1410894
-.spotify.com	TRUE	/	TRUE	1751583643	sp_adid	d8bb4ecc-bac8-4e89-ad1e-6e59d0b6dbab
-.spotify.com	TRUE	/	TRUE	1725231627	sp_gaid	0088fca7fd5440f864ddb71bf23ea361205ab0f08f774631062216
-.spotify.com	TRUE	/	TRUE	1754607627	sp_m	tr-tr

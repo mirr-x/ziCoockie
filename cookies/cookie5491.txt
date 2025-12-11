@@ -1,8 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1757495485	__Host-device_id	AQD1OMnz9486mAyPYTuEBSBpwAibTRr0GSUOEEqm-hTKMpM66PVWZJIrPMS8TJcbD5L76h3bKMleoC6aWrs6D3IjrpLx23CXZXo
-.spotify.com	TRUE	/	FALSE	1755448874	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+17+2024+20%3A41%3A14+GMT%2B0400+(Azerbaycan+Standart+Saati)&version=202405.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd1623a2-bd5a-4a0b-8133-58edcc20a00e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1&AwaitingReconsent=false
-.spotify.com	TRUE	/	FALSE	1731464909	_gcl_au	1.1.1963707312.1723688909
-accounts.spotify.com	FALSE	/	TRUE	1724047746	__Host-sp_csrf_sid	c49a103b2e996673085a77ad610936786cf57131b41f78404e5dc4ad6e1fde64
-.spotify.com	TRUE	/	TRUE	1755580146	sp_dc	AQBpVg1qOFz3PatHgHYF_ueTSFzKLMK0IuLWKL7Dg7gAuDznqwvHHBVz_3bmFv8P959SQ9v_SdHfU7oS1bClJgOPX5Lz3B9Ngpu9m2kM9ILVs8DuTQvuvVadsWOwHzzt6r3OjHolzcfxBBBYWpkXQ-R0uS-hHGZm
-.spotify.com	TRUE	/	TRUE	1755580146	sp_key	d2cdd827-3f47-4edf-9c6d-c3672e7c8615
-.spotify.com	TRUE	/	TRUE	1724130551	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess%3Fsp_cid%3Dac65fb5ee2e6563f391f06a05997b9b2%26device%3Ddesktop
-.spotify.com	TRUE	/	TRUE	1755580151	sp_t	ac65fb5ee2e6563f391f06a05997b9b2

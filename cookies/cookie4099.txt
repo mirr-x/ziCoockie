@@ -1,4 +1,0 @@
-.spotify.com	TRUE	/	FALSE	1749761926	sp_t	c47eb61a883c8aaa8feb6ab7578a1a51
-.spotify.com	TRUE	/	FALSE	1749761928	sp_adid	29407482-3a13-438d-8179-d942da8f7f51
-.spotify.com	TRUE	/	FALSE	1731703924	sp_dc	AQBtxfMHuHhkHUDV0uJTdmfWd2IzZkRu1w25F01F6xpHReqsovMCBOVPZtyqXvATana-g6RgSfmQoQwXzfYVkkyTYwv7ddGFscwQ5ZDd5B5jbq5HC-vHkgvxYXMvctoZjB62hN2SgIuczcstCh3743gLCAl3zNc
-.spotify.com	TRUE	/	FALSE	1731703924	sp_key	f6f8fcfe-18d8-440e-9960-0d2e469bcbea

@@ -1,9 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1735615870	__Host-device_id	AQDDAPj9B3BI8Tetiy2oi8Z0iM4Eilkn9jBltD6s8tw83jZGlHW6yn1Vlw-IA4zcvrnlxSfZtyeKACgYZfCP7tAttYU9bdkaBys
-.spotify.com	TRUE	/	TRUE	1732591874	sp_dc	AQAhSuHArlXyvKa_GIVhsZqTzRicD1GXpmO0-S36IdrjrnQ4MCd1vKR0FFkKLmKLtpWJNZJIq_uWZs99KFzvHTN6FEe6kicbFz00jJy6iOmXU-GzzCrKSmggZPVmtUDTWDkR5qGHlgcSAXbgIGlpnpVorXRan3V9bRT3pqZIup2hTLvU76aBaow23FU9_9BLLtSBhLzXUQ4IGtAZp3wD4-ghxH0
-.spotify.com	TRUE	/	TRUE	1732591874	sp_key	ff54efb1-deb4-4c10-9ae2-1b49ae8d91e9
-.spotify.com	TRUE	/	TRUE	1747197384	sp_t	e15632e9ecf77a276cc07a30bc33a093
-.spotify.com	TRUE	/	TRUE	1735703375	sp_m	mx
-.spotify.com	TRUE	/	TRUE	1747180874	sp_adid	adb089a6-fb7e-4d2a-b396-15c0851ab24c
-.spotify.com	TRUE	/	FALSE	1747180874	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+13+2024+18%3A01%3A14+GMT-0600+(hora+est%C3%A1ndar+central)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2Fintl-es%2Fartist%2F0Q8NcsJwoCbZOHHW63su5S&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
-.spotify.com	TRUE	/	FALSE	1750204919	_ga	GA1.2.1992594677.1715644874
-.spotify.com	TRUE	/	FALSE	1750204920	_ga_ZWG1NSHWD8	GS1.1.1715644874.1.1.1715644920.0.0.0

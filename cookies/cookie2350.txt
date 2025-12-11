@@ -1,7 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1745372363	__Host-device_id	AQBR1wFXHPM7ItKDvAVFNj-82AplExHb9y01_xJXBqLDv2SZvsLen8kD6D3ewkD-puXIBpq936J6mSoDqEAKOsL8xpkL-fS6aw8
-.spotify.com	TRUE	/	TRUE	1745372434	sp_m	tr-tr
-.spotify.com	TRUE	/	TRUE	1742348567	sp_t	4718c107-f45b-4f44-9bd2-8ad9b4f1d876
-.spotify.com	TRUE	/	TRUE	1742348550	sp_dc	AQCcKel5KKjWctrmd9EiWFsZGj2fKRXzR4SsMFEKbJkIiJ1yZsyM_HJ-Azh1BaRT83zb-Cr5LG2lliaBfUV-n95YHGJmYtE5ZwDPHVhPwUTLFCDCpbqZAQbWFbkaI7WbFERDC9Qqw9MYi_Uj4hyPxaZTPSPkWpU
-.spotify.com	TRUE	/	TRUE	1742348550	sp_key	7e5563e7-9cab-4958-8c2b-a41ef9d259d4
-.spotify.com	TRUE	/	FALSE	1745372559	_ga	GA1.2.2143043833.1710812559
-.spotify.com	TRUE	/	FALSE	1742348569	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+19+2024+04%3A42%3A49+GMT%2B0300+(GMT%2B03%3A00)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5a001f07-ca5a-47f4-8836-97e77f82016e&interactionCount=1&landingPath=https%3A%2F%2Fwww.spotify.com%2Ftr-tr%2Faccount%2Foverview%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1

@@ -1,8 +1,0 @@
-accounts.spotify.com	FALSE	/	TRUE	1739511895	__Host-device_id	AQCxXMFy_OfB6c-SPzVyZHnamFbfCbwXPXyMUx8Mt2ea902sbE78uufAIZZxu5imi_i7Oapc1UAXWsdIsV3kUVbu1dJgjXKuqPk
-.spotify.com	TRUE	/	TRUE	1736488023	sp_dc	AQBAkvcM1X1krBaApBNYZY5tklKxLII4af1M0_gv-DnAmsNMUU0eciyWy2XQIcV51biMn_K1KI_hmIkrUeJzXXBa3Km3IAx4qdEFiDrayuapjF1v68duxfejXZs1WDd0dAfwwUTv3ELsF9w8Rbozq2TEfcPx-no
-.spotify.com	TRUE	/	TRUE	1736488023	sp_key	62b376af-3632-4c67-bdcd-53aba45afb19
-.spotify.com	TRUE	/	TRUE	1736488027	sp_t	94f5dcd039a4968f5bbca0cc872de21a
-.spotify.com	TRUE	/	FALSE	1750300122	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+19+2024+10%3A28%3A42+GMT%2B0800+(%E5%8F%B0%E5%8C%97%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fsupport.spotify.com%2Ftw%2Farticle%2Fspotify-connect%2F&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1
-.spotify.com	TRUE	/	FALSE	1753324122	_ga	GA1.2.1112941332.1718764122
-.spotify.com	TRUE	/	FALSE	1753324122	_ga_S0T2DJJFZM	GS1.1.1718764122.1.0.1718764122.0.0.0
-.spotify.com	TRUE	/	TRUE	1753324120	sp_m	tw
